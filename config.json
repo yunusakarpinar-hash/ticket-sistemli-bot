@@ -1,0 +1,31 @@
+{
+  "TOKEN": "tokenin",
+  "PREFIX": "!",
+  "TICKET_AYARLARI": {
+    "BILET_LIMITI": 3
+  },
+  "KOMUTLAR": {
+    "PANEL_KUR": "biletpanelkur",
+    "AYARLA": "biletsistemiayarla" 
+  },
+  "MESAJLAR": {
+    "YETKI_YOK": "Bu komutu kullanmak için Yonetici yetkisine sahip olmalisiniz.",
+    "AYAR_TAMAM": "Bilet sistemi ayarlari basariyla kaydedildi! Kategori: {kategori}, Destek Rolu: {rol}, Log Kanali: {log}.",
+    "AYAR_EKSİK": "Lutfen kategori ID'si, destek rolü ID'si ve log kanali ID'sini dogru formatta girin: `{prefix}{komut} <Kategori ID> <Rol ID> <Log Kanali ID>`",
+    "AYAR_YOK": "Bilet sistemi henuz ayarlanmamis. Lutfen bir yoneticiye `{prefix}{komut} <Kategori ID> <Rol ID> <Log Kanali ID>` komutunu kullanmasini soyleyin.",
+    "BILET_ACIK": "Zaten acik {limit} adet biletiniz var! Lutfen mevcut biletlerinizi kapatin.",
+    "BILET_ACILDI": "Biletiniz **{channel}** kanali ile acildi.",
+    "BILET_KAPANMA_SORU": "Bu bileti kapatmak istediginizden emin misiniz?",
+    "BILET_KAPANDI": "Bilet 5 saniye icinde kapatilacaktir. Tesekkurler!",
+    "BILET_KAPATILDI_LOG": "Bilet Kapatildi: #{channelName} | Acan: {user} | Kapatan: {closer}",
+    "HATA_GENEL": "Bilet acilirken bir hata olustu. Lutfen bot yetkilerini kontrol edin.",
+    "BUTON_KANALI_DEGISMEZ": "Bu dugme sadece bilet kanallarinda calisir.",
+    "YETKI_KAPATMA": "Bu bileti kapatmak icin yetkiniz yok."
+  },
+  "EMBEDS": {
+    "PANEL_BASLIK": "Destek Bileti Sistemi",
+    "PANEL_ACIKLAMA": "Destek talebi olusturmak icin asagidaki dugmeye tiklayiniz.",
+    "WELCOME_BASLIK": "Destek Biletin Acildi",
+    "WELCOME_ACIKLAMA": "Merhaba {user}, Destek ekibimiz en kisa surede sizinle ilgilenecektir.\n\nLutfen sorununuzu detaylica aciklayiniz."
+  }
+}
