@@ -1,4 +1,4 @@
-🎫 Tam Ayarlanabilir Bilet Sistemi (Ticket System) Altyapısı - [Noise Development]
+🎫 Tam Ayarlanabilir Bilet Sistemi (Ticket System) Altyapısı - 
 Bu proje, Discord sunucularınız için dinamik, düğme tabanlı ve komutla ayarlanabilir profesyonel bir destek/bilet sistemi kurmanızı sağlayan bir Discord.js altyapısıdır.
 🌟 Özellikler
  * Komutla Ayarlama: Botu durdurup config.json'ı elle düzenlemeye gerek kalmadan, tüm kritik ayarlar (Kategori, Destek Rolü, Log Kanalı ID'leri) Discord üzerinden yönetici komutuyla ayarlanır ve kalıcı olarak kaydedilir.
@@ -60,7 +60,7 @@ Ayarlar kaydedildikten sonra, kullanıcıların bilet açmak için tıklayacağ�
  * HTML Transkript: Kapatılan bilet kanallarını silmek yerine, mesajları toplayıp bir HTML dosyası oluşturarak log kanalına gönderebilirsiniz (Daha ileri seviye).
  * Menü (Select Menu) Kullanımı: Bilet aç düğmesine basıldığında, kullanıcıya "Genel Destek", "Şikayet" veya "Teknik Sorun" gibi seçenekler sunan bir Seçim Menüsü (Select Menu) ekleyebilirsiniz.
 👤 Geliştirici
-Bu altyapı bexA tarafından Noise Development topluluğu için hazırlanmıştır.
+Bu altyapı bexA tarafından yapilmistir
  * Geliştirici: bexA
  * Proje Adı: Tam Ayarlanabilir Bilet Sistemi Altyapısı
 <!-- end list --># ticket-sistemli-bot
